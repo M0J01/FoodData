@@ -30,6 +30,8 @@ def getWebcall(foodNDBO):
     response = response.text
     return response
 
+
+
 # Grab Nutrients in a food
 # IN : Raw Json of a food
 # OUT : List of comma seperated nutrient values
@@ -55,6 +57,10 @@ for item in targetFoods:
     raw_json = json.loads(str(response).encode("utf-8"))
     name = raw_json['report']['food']['name']
     nutrientBreakdown = getNutrients(raw_json)
+    filename = str(str(item[0]) + '.txt')
+    file = open(filename, 'w')
+    file.write(response)
+    file.close()
     hackJson = raw_json
 
     masterFoodList.append([item[0], name, nutrientBreakdown])

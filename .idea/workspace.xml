@@ -4,29 +4,69 @@
     <bookmark url="file://$PROJECT_DIR$/TestLibrary/002_ParseJson.py" line="17" mnemonic="5" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e4a6c24-f885-47c2-a1b1-cb744ec6bb15" name="Default" comment="" />
+    <list default="true" id="9e4a6c24-f885-47c2-a1b1-cb744ec6bb15" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/TestLibrary/006_NutrientDataAsDict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestLibrary/00a_DictionaryObjectPlays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestLibrary/00b_NutrientStructures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestLibrary/00c_GrabListOfNutrients.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestLibrary/005_NutrientDataMultipleFoods.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestLibrary/005_NutrientDataMultipleFoods.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="698072716">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="26" />
+          <entry key="py" value="2295" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="Python" value="2295" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="5" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Main3.0.py" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Main3.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="002_ParseJson.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestLibrary/002_ParseJson.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="345">
               <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
               <folding>
                 <element signature="e#1#25#0" expanded="true" />
@@ -35,43 +75,73 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="004_WebCallMultipleFoods.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestLibrary/004_WebCallMultipleFoods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="405">
               <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="005_NutrientDataMultipleFoods.py" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestLibrary/005_NutrientDataMultipleFoods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="20" column="91" lean-forward="true" selection-start-line="20" selection-start-column="91" selection-end-line="20" selection-end-column="91" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Deprecated_Main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Deprecated_Main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="146" selection-end-column="1" />
+            <state relative-caret-position="1">
+              <caret line="62" column="16" lean-forward="true" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
               <folding>
-                <element signature="e#1389#1405#0" expanded="true" />
-                <element signature="e#1534#2132#0" />
-                <element signature="e#2249#3348#0" />
+                <element signature="e#1213#1584#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example Results Page" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Example Results Page">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestLibrary/006_NutrientDataAsDict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="455">
+              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+              <folding>
+                <element signature="e#869#1078#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestLibrary/00c_GrabListOfNutrients.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestLibrary/00a_DictionaryObjectPlays.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <marker date="1553308548618" expanded="true" signature="88:93" ph="..." />
+                <marker date="1553308548618" expanded="true" signature="325:330" ph="..." />
+                <marker date="1553308548618" expanded="true" signature="502:641" ph="..." />
+                <marker date="1553308548618" expanded="true" signature="527:532" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestLibrary/00b_NutrientStructures.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestLibrary/001_GetWebText.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" selection-end-line="7" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -84,6 +154,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -98,14 +171,18 @@
         <option value="$PROJECT_DIR$/TestLibrary/003_FormatAFood.py" />
         <option value="$PROJECT_DIR$/TestLibrary/004_Data4MultipleFoods.py" />
         <option value="$PROJECT_DIR$/TestLibrary/005_NutrientDataMultipleFoods.py" />
+        <option value="$PROJECT_DIR$/TestLibrary/00a_GrabNutrients.py" />
+        <option value="$PROJECT_DIR$/TestLibrary/00b_NutrientStructures.py" />
+        <option value="$PROJECT_DIR$/TestLibrary/006_NutrientDataAsDict.py" />
+        <option value="$PROJECT_DIR$/TestLibrary/GrabListOfNutrients.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="179" />
-    <option name="y" value="3" />
-    <option name="width" value="1496" />
-    <option name="height" value="987" />
+    <option name="x" value="59" />
+    <option name="y" value="58" />
+    <option name="width" value="1045" />
+    <option name="height" value="959" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -116,19 +193,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="FooFinder-031819" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FooFinder-031819" type="462c0819:PsiDirectoryNode" />
+              <item name="FoodData" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FoodData" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FooFinder-031819" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FooFinder-031819" type="462c0819:PsiDirectoryNode" />
+              <item name="FoodData" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FoodData" type="462c0819:PsiDirectoryNode" />
               <item name="TestLibrary" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FooFinder-031819" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FooFinder-031819" type="462c0819:PsiDirectoryNode" />
-              <item name="TestLibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="005_NutrientDataMultipleFoods.py" type="8704e2dd:PyFileNode" />
             </path>
           </expand>
           <select />
@@ -138,10 +209,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TestLibrary" />
       <recent name="C:\Users\18042\Projects\FooFinder-031819\TestLibrary" />
     </key>
   </component>
@@ -157,43 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.005_NutrientDataMultipleFoods">
-    <configuration name="002_ParseJson" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FooFinder-031819" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestLibrary" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestLibrary/002_ParseJson.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="003_FormatAFood" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FooFinder-031819" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestLibrary" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestLibrary/003_FormatAFood.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.006_NutrientDataAsDict">
     <configuration name="004_Data4MultipleFoods" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FooFinder-031819" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,6 +248,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="005_NutrientDataMultipleFoods" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FooFinder-031819" />
@@ -219,9 +259,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestLibrary" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestLibrary/005_NutrientDataMultipleFoods.py" />
@@ -229,39 +269,87 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="GetWebText" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="006_NutrientDataAsDict" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FooFinder-031819" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestLibrary" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\18042\Projects\FooFinder-031819\TestLibrary\001_GetWebText.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestLibrary/006_NutrientDataAsDict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="00a_GrabNutrients" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FooFinder-031819" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestLibrary" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestLibrary/00a_DictionaryObjectPlays.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="00b_NutrientStructures" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FooFinder-031819" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestLibrary" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestLibrary/00b_NutrientStructures.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.GetWebText" />
-      <item itemvalue="Python.002_ParseJson" />
-      <item itemvalue="Python.003_FormatAFood" />
       <item itemvalue="Python.004_Data4MultipleFoods" />
       <item itemvalue="Python.005_NutrientDataMultipleFoods" />
+      <item itemvalue="Python.00a_GrabNutrients" />
+      <item itemvalue="Python.00b_NutrientStructures" />
+      <item itemvalue="Python.006_NutrientDataAsDict" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.006_NutrientDataAsDict" />
+        <item itemvalue="Python.00b_NutrientStructures" />
+        <item itemvalue="Python.00a_GrabNutrients" />
         <item itemvalue="Python.005_NutrientDataMultipleFoods" />
         <item itemvalue="Python.004_Data4MultipleFoods" />
-        <item itemvalue="Python.003_FormatAFood" />
-        <item itemvalue="Python.002_ParseJson" />
-        <item itemvalue="Python.GetWebText" />
       </list>
     </recent_temporary>
   </component>
@@ -279,74 +367,60 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="179" y="3" width="1496" height="987" extended-state="0" />
+    <frame x="59" y="58" width="1045" height="959" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13918918" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="R Graphics" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2868217" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20438685" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28604382" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39907727" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Main2.py">
+    <entry file="file://$PROJECT_DIR$/Main2.py" />
+    <entry file="file://$PROJECT_DIR$/TestLibrary/003_FormatAFood.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1982">
-          <caret selection-end-line="7" />
-          <folding>
-            <element signature="e#1407#1423#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestLibrary/001_GetWebText.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Example Results Page">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="289">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Main3.0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestLibrary/004_WebCallMultipleFoods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Deprecated_Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="146" selection-end-column="1" />
+        <state relative-caret-position="1245">
+          <caret line="131" selection-start-line="131" selection-end-line="146" selection-end-column="1" />
           <folding>
             <element signature="e#1389#1405#0" expanded="true" />
             <element signature="e#1534#2132#0" />
@@ -355,16 +429,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestLibrary/003_FormatAFood.py">
+    <entry file="file://$PROJECT_DIR$/TestLibrary/02010.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="315">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestLibrary/005_NutrientDataMultipleFoods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="62" column="16" lean-forward="true" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
+          <folding>
+            <element signature="e#1213#1584#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestLibrary/11097.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestLibrary/04584.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Example Results Page">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestLibrary/['11090', 'Broccoli, raw'].txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestLibrary/001_GetWebText.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestLibrary/002_ParseJson.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="345">
           <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
           <folding>
             <element signature="e#1#25#0" expanded="true" />
@@ -372,19 +479,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestLibrary/004_WebCallMultipleFoods.py">
+    <entry file="file://$PROJECT_DIR$/TestLibrary/00a_DictionaryObjectPlays.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        <state relative-caret-position="275">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <marker date="1553308548618" expanded="true" signature="88:93" ph="..." />
+            <marker date="1553308548618" expanded="true" signature="325:330" ph="..." />
+            <marker date="1553308548618" expanded="true" signature="502:641" ph="..." />
+            <marker date="1553308548618" expanded="true" signature="527:532" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestLibrary/005_NutrientDataMultipleFoods.py">
+    <entry file="file://$PROJECT_DIR$/TestLibrary/00b_NutrientStructures.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="20" column="91" lean-forward="true" selection-start-line="20" selection-start-column="91" selection-end-line="20" selection-end-column="91" />
+        <state relative-caret-position="390">
+          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestLibrary/006_NutrientDataAsDict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="e#869#1078#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestLibrary/00c_GrabListOfNutrients.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
